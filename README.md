@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shegy28&label=Profile%20views&color=0e75b6&style=flat" alt="shegy28" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shegy28" alt="shegy28" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=shegy28&theme=onedark" alt="shegy28" /></a> </p>
 
 - 🌱  I’m currently learning HTML & CSS, Ruby Databases, Ruby on Rails, JavaScript, React & Redux, Algorithms, Data Structures  @ Microverse
 
