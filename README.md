@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi 👋,
  <br> I'm Chimezie Asouzu</h1>
-<h4 align="left">A Frontend developer from Abuja, Nigeria</h4>
+<h4 align="left">A Front-end developer from Abuja, Nigeria</h4>
 
 ![](https://image.ibb.co/jEkcdd/front_end_developers_openings_1.gif)
 
