@@ -10,11 +10,15 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=shegy28&theme=onedark" alt="shegy28" /></a> </p>
 
-- 🌱  I’m currently learning HTML & CSS, Ruby Databases, Ruby on Rails, JavaScript, React & Redux, Algorithms, Data Structures  @ Microverse
+- 🌱  I’m currently available for hire.
 
-- 👯  I’m looking to collaborate on HTML, CSS, and JS projects
+- 👯  I’m currently working with React and Ruby on Rails
 
-- 📫  How to reach me **shegy28@gmail.com**
+- 📫  You can send me an email at **shegy28@gmail.com** I'll try to respond as soon as I can.
+
+- 📄 Please look through my [Portfolio](https://shegy28.github.io/Portfolio-setup-and-mobile-first/) for more details about me. I'm open to feedback and suggestions!
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
